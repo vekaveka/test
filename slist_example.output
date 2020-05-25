@@ -1,0 +1,10 @@
+origin list: slist head:
+7 6 5 4 3 2 1 0 
+newlist reverted list: slist head:
+0 1 2 3 4 5 6 7 
+local reverted list: slist head:
+7 6 5 4 3 2 1 0 
+destroyed list: slist head:
+
+income str: 1234567
+reverted str: 7654321
